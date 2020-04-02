@@ -76,3 +76,76 @@
      font-size: 13px;
    }
    
+
+   .info {
+     /* width: 600px; */
+     width: 600px;
+     margin: 0 auto;
+   }
+
+   .info li {
+     display: inline-block;
+     margin-left: 10px;
+      cursor: pointer;
+    }
+
+    .info p{
+      color: #333;
+      font-weight: 700;
+    }
+
+    .info p a {
+      text-decoration: none;
+      color: #333;
+      border-bottom: .5px solid #888;
+    }
+    
+    .info p a:hover {
+      border-bottom: none;
+    }
+   .st {
+    background: #EEE;
+    padding: 5px;
+    border-radius: 50%;
+   }
+
+   .sm-icons {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin: 0 auto;
+   }
+
+   .far{
+     font-size: 20px;
+   }
+
+   .cm {
+     position: absolute;
+   }
+
+   #comment-num {
+     font-size: 8px;
+     position: relative;
+     left: 3px;
+      bottom: 3px;
+   }
+
+   /* .article {
+     width: 70%;
+     margin: 0 auto;
+   } */
+
+   article {
+     width: 600px;
+     margin: 0 auto;
+     margin-top: 20px;
+     /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+     /* font-family: nyt-franklin,helvetica,arial,sans-serif; */
+     font-family: cambria;
+    font-size: 21px;
+    /* word-spacing: .5rem; */
+    color: #000;
+    line-height: 1.8rem;
+    
+    }
