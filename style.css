@@ -174,11 +174,52 @@
     }
 
     .the-iframe {
-        /* display: flex;
-        justify-content: center; */
-        height: 770px;
+        
+        height: 730px;
         width: 72%;
-        margin: auto;
+        margin: 30px auto auto auto;
+    }
+    
+    .the-iframe p{
+        color: #333333;
+        font-size: 14px;
+        font-family: nyt-franklin,helvetica,arial,sans-serif;
+    }
+    
+    .iframe-header h1{
+        margin-bottom: 0;
+        color: #000000;
+        font-size: 20px;
+        font-family: nyt-franklin,helvetica,arial,sans-serif;
+    }
+    
+    .iframe-header p{
+        margin-top: 0;
+        color: #666666;
+        font-size: 14px;
+        font-family: nyt-franklin,helvetica,arial,sans-serif;
+    }
+    .grid4{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 10px;
+    }
+    
+    .grid4 img{
+        width: 228px;
+        height: 120px;
+    }
+    
+    .grid4 p{
+        color: #000000;
+        font-size: 14px;
+        font-family: nyt-franklin,helvetica,arial,sans-serif;
+    }
+    
+    .grid4 span{
+        font-size: 12px;
+        font-weight: 800;
+        margin-right: 20px;
     }
 
     aside {
