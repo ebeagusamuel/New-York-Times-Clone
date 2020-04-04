@@ -343,7 +343,7 @@
         margin-right: 10px;
         color: #999999;
         font-size: 10px;
-        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-family: cambria;
     }
 
     .grid2-imgtext2 {
@@ -351,7 +351,7 @@
         display: block;
         color: #121212;
         font-size: 18px;
-        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-family: cambria;
     }
 
     
@@ -360,19 +360,19 @@
         display: block;
         color: #999999;
         font-size: 18px;
-        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-family: cambria;
     }
 
     .grid2-imgtext3 {
         color: #999999;
         font-size: 12px;
-        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-family: cambria;
     }
 
     .j2-text2 {
         color: #121212;
         font-size: 19px;
-        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-family: cambria;
         font-weight: 500;
         cursor: pointer;
     } 
@@ -380,7 +380,7 @@
     .j2-text2:hover {
         color: #999999;
         font-size: 19px;
-        font-family: nyt-franklin,helvetica,arial,sans-serif;
+        font-family: cambria;
         font-weight: 500;
         cursor: pointer;
     }
@@ -403,14 +403,6 @@
     .thick {
       border-width: .1rem;
     }
-    /* footer hr {
-      width: 100%;
-    } */
-
-    /* .thick {
-      padding: 0;
-      margin: 0;
-    } */
 
     .footer-grid {
       display: grid;
@@ -421,7 +413,6 @@
 
     .footer-header{
       display: flex;
-      /* grid-template-columns: 1fr 1fr; */
       justify-content:space-between;
       align-items: flex-end;
     }
@@ -433,38 +424,16 @@
     .vl {
       border-left: #ddd solid 1px;
       height: 100%;
-      /* width: 1px;
-      display: 0; */
     }
 
     .subscribe {
       display: grid;
       grid-template-columns: 1fr 12fr;
     }
-    /* .news {
-      grid-area: a;
-    }
-    .opinion {
-      grid-area: b;
-    }
-    .arts {
-      grid-area: c;
-    }
-    .living {
-      grid-area: d;
-    }
-    .news {
-      grid-area: a;
-    }
-    .news {
-      grid-area: a;
-    } */
 
     .subscribe li:nth-of-type(6){
       margin-top: 18px;
     }
-
-    
 
     footer a {
       text-decoration: none;
@@ -490,7 +459,6 @@
       line-height: 1.23rem;
     }
 
-    
     .hr-line{
       width: 100%;
       border-bottom: #eedddd solid 1px;
@@ -511,16 +479,6 @@
       font-weight: 700;
     }
 
-    /* .footer-nav{
-      width: 90%;
-    } */
-
-    /* .footer-nav li {
-      grid-area: a;
-      display: inline-block;
-      text-align: center;
-    } */
-
     .footer-nav ul {
       display: flex;
       /* width: 90%; */
@@ -528,9 +486,6 @@
       justify-content: space-around;
     }
 
-    /* footer img{
-      
-    } */
     .footer-nav a{
       color: #999999;
       font-size: .8rem;
