@@ -384,3 +384,159 @@
         font-weight: 500;
         cursor: pointer;
     }
+
+    footer{
+      width: 90%;
+      margin: 0 auto;
+      margin-bottom: 2rem;
+    }
+
+    .line {
+      border: 1px solid rgb(224, 221, 221);
+      margin-top: .1rem;
+    }
+
+    .tiny {
+      font-size: .8rem;
+    }
+
+    .thick {
+      border-width: .1rem;
+    }
+    /* footer hr {
+      width: 100%;
+    } */
+
+    /* .thick {
+      padding: 0;
+      margin: 0;
+    } */
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      line-height: 1rem;
+      font-size: .9rem;
+    }
+
+    .footer-header{
+      display: flex;
+      /* grid-template-columns: 1fr 1fr; */
+      justify-content:space-between;
+      align-items: flex-end;
+    }
+
+    .main-footer > div > a{
+      font-size: .8rem;
+    }
+
+    .vl {
+      border-left: #ddd solid 1px;
+      height: 100%;
+      /* width: 1px;
+      display: 0; */
+    }
+
+    .subscribe {
+      display: grid;
+      grid-template-columns: 1fr 12fr;
+    }
+    /* .news {
+      grid-area: a;
+    }
+    .opinion {
+      grid-area: b;
+    }
+    .arts {
+      grid-area: c;
+    }
+    .living {
+      grid-area: d;
+    }
+    .news {
+      grid-area: a;
+    }
+    .news {
+      grid-area: a;
+    } */
+
+    .subscribe li:nth-of-type(6){
+      margin-top: 18px;
+    }
+
+    
+
+    footer a {
+      text-decoration: none;
+      color: #333;
+      margin-top: 20px;
+    }
+
+    .bold img{
+      width: 20px;
+      height: 20px;
+    }
+
+    footer a:hover{
+      text-decoration: underline;
+    }
+    
+    footer li {
+      margin-top: 7px;      
+    }
+
+    .subscribe .bold {
+      font-size: 1rem;
+      line-height: 1.23rem;
+    }
+
+    
+    .hr-line{
+      width: 100%;
+      border-bottom: #eedddd solid 1px;
+      margin-top: 8px;
+      margin-bottom: 0px;
+    }
+
+    .subscribe .hr-line{
+      margin-bottom: 14px;
+    }
+
+    footer hr{
+      width: 100%;
+      margin-bottom: 0px;
+    }
+
+    .footer-grid p, .subscribe .bold{
+      font-weight: 700;
+    }
+
+    /* .footer-nav{
+      width: 90%;
+    } */
+
+    /* .footer-nav li {
+      grid-area: a;
+      display: inline-block;
+      text-align: center;
+    } */
+
+    .footer-nav ul {
+      display: flex;
+      /* width: 90%; */
+      align-items: center;
+      justify-content: space-around;
+    }
+
+    /* footer img{
+      
+    } */
+    .footer-nav a{
+      color: #999999;
+      font-size: .8rem;
+    }
+
+    .fa-angle-double-right{
+      color: #ddd;
+      font-size: .6rem;
+    }
