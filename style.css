@@ -505,3 +505,38 @@ body {
       position: sticky;
       bottom: 0;
     }
+
+    .sticky-footer{
+      position: sticky;
+      bottom: 0;
+      width: 100%;
+      cursor: pointer;
+      /* text-align: center; */
+    }
+
+    /* .sticky-footer .hr {
+      width: 100%;
+      border: aqua 1px solid;
+    } */
+    .expand {
+      display: flex;
+      left: -70px;
+      bottom: 50px;
+      float: right;
+      position: relative;
+      font-size: .9rem;
+      font-weight: 700;
+    }
+
+    .expand span {
+      margin-left: 40px;
+    }
+    .sticky-footer section{
+      background: #fff;
+      /* width: 90%; */
+      border-top: 1px solid #000;
+      padding: 3px;
+      text-align: center;
+      position: relative;
+      /* left: 30%; */
+    }

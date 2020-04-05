@@ -21,15 +21,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Elijah Ayandokun**
 
-- Github: [@elijahtobs](https://github.com/elijahtobs)
-- Twitter: [@elijahgr8](https://twitter.com/twitterhandle)
+- Github: [@elijahtobs](https://github.com/ElijahTobs)
+- Twitter: [@elijahgr8](https://twitter.com/Elijahgr8)
 - Linkedin: [linkedin](https://linkedin.com/in/ayandokunelijah)
 
 👤 **Samuel Ebeagu**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/ebeagusamuel)
+- Twitter: [@twitterhandle](https://twitter.com/ebeagu_samuel)
+- Linkedin: [linkedin](https://www.linkedin.com/in/samuel-ebeagu-7b4617110)
 
 ## 🤝 Contributing
 
