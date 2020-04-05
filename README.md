@@ -2,7 +2,7 @@
 
 > A clone of one of New York Times article page.
 
-![screenshot](./img/nytscreenshots.png)
+![screenshot](./img/nytscrnshots.png)
 
 ![screenshot](./img/nytscrnshot2.png)
 
