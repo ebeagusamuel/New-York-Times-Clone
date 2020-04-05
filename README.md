@@ -2,9 +2,9 @@
 
 > A clone of one of New York Times article page.
 
-![screenshot](./nytscrnshot.png)
+![screenshot](./img/nytscreenshots.png)
 
-![screenshot](./nytscrnshot2.png)
+![screenshot](./img/nytscrnshot2.png)
 
 ## Built With
 
@@ -27,9 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Samuel Ebeagu**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/ebeagusamuel)
+- Twitter: [@twitterhandle](https://twitter.com/ebeagu_samuel)
+- Linkedin: [linkedin](https://www.linkedin.com/in/samuel-ebeagu-7b4617110/)
 
 ## 🤝 Contributing
 
