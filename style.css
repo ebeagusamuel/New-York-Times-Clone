@@ -1,3 +1,10 @@
+
+body {
+  width: 1349px;
+  margin: auto;
+  position: relative;
+}
+
 .nav-bar {
     padding: 10px 20px 6px 20px;
     display: flex;
@@ -52,12 +59,11 @@
      font-size: 40px;
      font-family: nyt-franklin,helvetica,arial,sans-serif;
      font-style: italic;
-     font-weight: 550;
+     font-weight: 500;
    }
    
    .inflation-img-div img {
-     width: 945px;
-     height: 535px;
+     width: 100%;
      margin: auto
    }
    
@@ -87,7 +93,6 @@
    
 
    .info {
-     /* width: 600px; */
      width: 600px;
      margin: 0 auto;
    }
@@ -145,13 +150,14 @@
      width: 600px;
      margin: 0 auto;
      margin-top: 20px;
-     /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-     /* font-family: nyt-franklin,helvetica,arial,sans-serif; */
      font-family: cambria;
     font-size: 21px;
-    /* word-spacing: .5rem; */
     color: #000;
     line-height: 1.8rem;
+    }
+
+    article>h4>span{
+      font-weight: 500;
     }
 
     figure img {
@@ -225,7 +231,8 @@
     aside {
         float: right;
         width: 210px;
-        margin-right: 89.5px;
+        position: absolute;
+        right: 90px;
     }
 
     aside hr{
@@ -297,7 +304,7 @@
     }
 
     .j {
-        width: 90%;
+        width: 1250px;
         margin: 50px auto;
         display: flex;
         justify-content: space-between;
@@ -308,12 +315,11 @@
     }
 
     .j2 {
-        width: 315px;
+        width: 30%;
     }
 
     .j1{
-        width: 852px;
-        margin-bottom: 20px;
+        width: 65%;
     }
 
     .j1 p, .j2-text1 {
@@ -386,7 +392,7 @@
     }
 
     footer{
-      width: 90%;
+      width: 1250px;
       margin: 0 auto;
       margin-bottom: 2rem;
     }
@@ -461,7 +467,7 @@
 
     .hr-line{
       width: 100%;
-      border-bottom: #eedddd solid 1px;
+      border-bottom: #666677 solid 1px;
       margin-top: 8px;
       margin-bottom: 0px;
     }
@@ -481,7 +487,6 @@
 
     .footer-nav ul {
       display: flex;
-      /* width: 90%; */
       align-items: center;
       justify-content: space-around;
     }
@@ -494,4 +499,9 @@
     .fa-angle-double-right{
       color: #ddd;
       font-size: .6rem;
+    }
+
+    .validator {
+      position: sticky;
+      bottom: 0;
     }
