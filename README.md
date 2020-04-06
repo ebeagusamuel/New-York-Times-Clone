@@ -27,9 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Samuel Ebeagu**
 
-- Github: [@githubhandle](https://github.com/ebeagusamuel)
-- Twitter: [@twitterhandle](https://twitter.com/ebeagu_samuel)
-- Linkedin: [linkedin](https://www.linkedin.com/in/samuel-ebeagu-7b4617110)
+- Github: [@ebeagusamuel](https://github.com/ebeagusamuel)
+- Twitter: [@ebeagu_samuell](https://twitter.com/ebeagu_samuel)
+- Linkedin: [Ebeagu Samuel](https://www.linkedin.com/in/samuel-ebeagu-7b4617110)
 
 ## 🤝 Contributing
 
